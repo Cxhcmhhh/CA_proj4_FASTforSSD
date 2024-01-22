@@ -1,8 +1,5 @@
-# SimpleSSD version 2.0
-Open-Source Licensed Educational SSD Simulator for High-Performance Storage and Full-System Evaluations
+# CA_proj4_FASTforSSD
 
-This project is managed by [CAMELab](http://camelab.org).
-For more information, please visit [SimpleSSD homepage](http://simplessd.org).
+北京大学23年秋计算机组织与体系结构lab4. 
 
-## Licenses
-SimpleSSD is released under the GPLv3 license. See `LICENSE` file for details.
+信息科学技术学院 2021级 蔡鑫豪
